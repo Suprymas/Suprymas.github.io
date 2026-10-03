@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Justas Page</title>
-    <link>https://Suprymas.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Justas Page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 16:49:21 +0300</lastBuildDate>
-    <atom:link href="https://Suprymas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Oct 2026 12:00:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apie mane</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 03 Oct 2026 12:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Apie mane&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Second</title>
-      <link>https://Suprymas.github.io/posts/second/</link>
+      <link>http://localhost:1313/posts/second/</link>
       <pubDate>Fri, 02 Oct 2026 16:49:21 +0300</pubDate>
-      <guid>https://Suprymas.github.io/posts/second/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Gucci morty&#34; loading=&#34;lazy&#34; src=&#34;https://Suprymas.github.io/images/morty.jpg&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/posts/second/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Gucci morty&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/morty.jpg&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;This is Gucci Morty.&amp;#34;&lt;/span&gt;)
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
@@ -22,9 +29,9 @@
     </item>
     <item>
       <title>First</title>
-      <link>https://Suprymas.github.io/posts/first/</link>
+      <link>http://localhost:1313/posts/first/</link>
       <pubDate>Fri, 02 Oct 2026 16:32:23 +0300</pubDate>
-      <guid>https://Suprymas.github.io/posts/first/</guid>
+      <guid>http://localhost:1313/posts/first/</guid>
       <description>&lt;p&gt;Sakinys zodis zodis zodis. Nezinau nezinau amamammamammamam.
 Tekstas tekstas tekstas tekstas.&lt;/p&gt;</description>
     </item>
